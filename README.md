@@ -1,8 +1,9 @@
-SENAP
-=====
+Stellar Evolution 'N Atmosphere Program
+=======================================
 
 The Stellar Evolution 'N Atmosphere Program (SENAP) is a state of the art stellar
-evolution code that includes wavelength&ndash;dependent radiative transfer.
+evolution code under development that includes wavelength&ndash;dependent radiative 
+transfer.
 
 Does the acronym mean something?
 --------------------------------
